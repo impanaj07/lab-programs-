@@ -1,2 +1,3 @@
 # lab-programs-
-Includes all the programs from(oops,dsa and web development) that were practiced for 3rd sem lab internals.
+Includes all the lab programs -oops,dsa and web dev for 3rd sem
+
